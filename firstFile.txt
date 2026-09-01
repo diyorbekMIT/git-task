@@ -1,6 +1,6 @@
-line 1
+one
 two
-line 3
+three
 line 4
 five
 line 6
